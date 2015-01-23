@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Test0050()
+comment1.params=numero\ multiplicador
+comment1.target=int\ multiplicar(int,\ int)
+comment2.params=numero\ divisor
+comment2.target=int\ dividir(int,\ int)
+comment3.params=base\ exponente
+comment3.target=int\ potencia(int,\ int)
+numComments=4
